@@ -1,6 +1,6 @@
 import re
 while True:
-    g_mail = input("Enter your G-mail: ")
+    g_mail = input("Enter your E-mail: ")
     if not g_mail:
         break
     def srch():
